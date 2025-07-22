@@ -1,0 +1,16 @@
+:root {
+    --preparation-time:  hsl(332, 51%, 32%);
+
+    --preparation-instructions: hsl(330, 100%, 98%);
+
+    --titles-recipe: hsl(14, 45%, 36%);
+
+    --title-main: hsl(24, 5%, 18%);
+
+    --recipe-body: hsl(30, 54%, 90%);
+
+    --recipe-description: hsl(30, 10%, 34%);
+
+    --recipe-separation: hsl(30, 18%, 87%);
+
+}
